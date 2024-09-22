@@ -1,0 +1,23 @@
+#news{
+    background-color: lightgrey;
+    width: 100%;
+}
+
+#news .news-info{
+    background-color: white;
+    padding: 100px;
+    box-sizing: border-box;
+    width: 70%;
+    transform: translateX(-50%);
+    left: 50%;
+    position: relative;
+
+}
+#news .recent-post{
+    background-color: white;
+    width: 70%;
+    transform: translateX(-50%);
+    left: 50%;
+    position: relative;
+
+}
